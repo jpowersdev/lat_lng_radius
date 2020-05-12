@@ -1,0 +1,21 @@
+{
+  "name": "@jpowersdev/lat_lng_radius",
+  "collaborators": [
+    "Jon Powers <jon.powers@icloud.com>"
+  ],
+  "description": "Get min and max lat/lng within a radius",
+  "version": "0.1.3",
+  "license": "MIT/Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpowersdev/latlngradius"
+  },
+  "files": [
+    "lat_lng_radius_bg.wasm",
+    "lat_lng_radius.js",
+    "lat_lng_radius.d.ts"
+  ],
+  "module": "lat_lng_radius.js",
+  "types": "lat_lng_radius.d.ts",
+  "sideEffects": "false"
+}
