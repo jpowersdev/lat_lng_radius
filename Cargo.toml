@@ -1,7 +1,7 @@
 [package]
 name = "lat_lng_radius"
 description = "Get min and max lat/lng within a radius"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["Jon Powers <jon.powers@icloud.com>"]
 license = "MIT/Apache-2.0"
 repository = "https://github.com/jpowersdev/lat_lng_radius"
